@@ -1,2 +1,3 @@
-# JavascriptProjeect
-Tic Tac Toe Game
+# Javascript Projects
+1. Tic Tac Toe Game
+2. Rock Paper Scissors
